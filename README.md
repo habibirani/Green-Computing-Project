@@ -6,11 +6,10 @@ This repository contains code for training, evaluating, and applying quantizatio
 - [Description](#description)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model](#model)
 - [Dataset](#dataset)
 - [Training Procedure](#Training-Procedure)
-- [## Inference](#inference)
+- [Inference](#inference)
 - [Results](#results)
 - [Discussion](#discussion)
 - [Contributing](#contributing)
@@ -40,16 +39,6 @@ cd Green-Computing_project
 conda env create -f environment.yml
 
 ```
-
-## Usage
-
-To use this project, run the main script after installation:
-
-```bash
-python scripts/main.py
-
-```
-
 
 ## Model
   - [Transformer-encoder] The TimeSeriesTransformer model is designed for processing sequential data, with a focus on time-series analysis. It comprises a patch-based embedding layer and a Transformer encoder architecture. The patch embedding layer preprocesses input sequences, while the Transformer encoder captures temporal dependencies using self-attention mechanisms across multiple encoder layers.
