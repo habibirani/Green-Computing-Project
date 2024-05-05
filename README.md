@@ -69,3 +69,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+<!-- CITATION -->
+## Citation
+If you use this repository in your research please use the following BibTeX entry:
+
+```bibtex
+@Misc{TransformerInferenceEnergy,
+  title = {Optimizing Transformer Models for Energy Efficiency
+           in Time Series Classification},
+  author = {Irani, Habib},
+  howpublished = {Github},
+  year = {2024}
+  url = {https://github.com/habibirani/Green-Computing-Project}
+}
+```
+
