@@ -1,5 +1,5 @@
 # Green-Computing-Project
-This repository contains code for training, evaluating, and applying quantization and pruning techniques to a transformer model for time series data. 
+This repository contains code for training, evaluating, and applying quantization and pruning techniques to a transformer model designed for analyzing time series data. The project was undertaken as part of the Advanced Green Computing course (CS7333) at the Department of Computer Science, Texas State University.
 
 
 ## Table of Contents
@@ -13,6 +13,7 @@ This repository contains code for training, evaluating, and applying quantizatio
 - [Results](#results)
 - [Discussion](#discussion)
 - [Contributing](#contributing)
+- [Citation](#citation)
 
 
 ## Description
@@ -34,8 +35,8 @@ This project aims to address the substantial energy consumption and carbon footp
 To install and run this repository, follow these steps:
 
 ```bash
-git clone https://github.com/habibirani/Green-Computing_project.git
-cd Green-Computing_project
+git clone https://github.com/habibirani/Green-Computing-project.git
+cd Green-Computing-project
 conda env create -f environment.yml
 
 ```
