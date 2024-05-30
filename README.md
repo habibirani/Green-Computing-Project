@@ -1,4 +1,4 @@
-# Green-Computing-Project
+# Transformer-Inference-Energy
 This repository contains code for training, evaluating, and applying quantization and pruning techniques to a transformer model designed for analyzing time series data. The project was undertaken as part of the Advanced Green Computing course (CS7333) at the Department of Computer Science, Texas State University.
 
 
